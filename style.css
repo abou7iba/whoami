@@ -32,6 +32,11 @@
     padding: 8px;
     color: tomato;
 }
+.footer .social a
+{
+    padding: 8px;
+    color: #fff;
+}
 .social i 
 {
     font-size: 20px;
@@ -196,6 +201,7 @@
 .la-skills h1
 {
     color: #ff634778;
+    text-align: center;
 
 }
 .la-skill
